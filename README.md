@@ -3,5 +3,8 @@ https://openweathermap.org/
 
 CoreLocation
 
+<img src = "https://user-images.githubusercontent.com/81037313/162630146-aad4eb22-0ad8-431a-be87-00684034c7f7.png" width = "300" hegiht = "300" > 
 
-<img width="390" alt="Снимок экрана 2022-04-01 в 23 22 32" src="https://user-images.githubusercontent.com/81037313/161336149-c351663d-fa01-4d24-84d7-cabde761b7c7.png">
+<img src = "https://user-images.githubusercontent.com/81037313/162630152-6ce17d2c-86df-4321-9f8f-b94e6e9b078f.png" width = "300" hegiht = "300" > 
+
+<img src = "https://user-images.githubusercontent.com/81037313/162630221-859421b3-a95b-49d1-9fcb-23e798033451.png" width = "300" hegiht = "300" > 
